@@ -1,0 +1,62 @@
+# Albuquerque
+
+> Geotechnical engineering company in United States, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Active Passive Anchor Design](https://albuquerque.geotechnicalengineering.sbs/active-passive-anchor-design/)
+- [Atterberg Limits](https://albuquerque.geotechnicalengineering.sbs/atterberg-limits/)
+- [Base Isolation Seismic Design](https://albuquerque.geotechnicalengineering.sbs/base-isolation-seismic-design/)
+- [Bearing Capacity Analysis](https://albuquerque.geotechnicalengineering.sbs/bearing-capacity-analysis/)
+- [Cbr Study Road Design](https://albuquerque.geotechnicalengineering.sbs/cbr-study-road-design/)
+- [Contaminated Soil Remediation](https://albuquerque.geotechnicalengineering.sbs/contaminated-soil-remediation/)
+- [Debris Flow Analysis](https://albuquerque.geotechnicalengineering.sbs/debris-flow-analysis/)
+- [Deep Soil Mixing](https://albuquerque.geotechnicalengineering.sbs/deep-soil-mixing/)
+- [Differential Settlement Analysis](https://albuquerque.geotechnicalengineering.sbs/differential-settlement-analysis/)
+- [Dynamic Compaction Design](https://albuquerque.geotechnicalengineering.sbs/dynamic-compaction-design/)
+- [Electrical Resistivity Ves](https://albuquerque.geotechnicalengineering.sbs/electrical-resistivity-ves/)
+- [Existing Pavement Evaluation](https://albuquerque.geotechnicalengineering.sbs/existing-pavement-evaluation/)
+- [Expansive Soil Evaluation](https://albuquerque.geotechnicalengineering.sbs/expansive-soil-evaluation/)
+- [Exploratory Pit](https://albuquerque.geotechnicalengineering.sbs/exploratory-pit/)
+- [Factor Safety](https://albuquerque.geotechnicalengineering.sbs/factor-safety/)
+- [Field Density](https://albuquerque.geotechnicalengineering.sbs/field-density/)
+- [Field Permeability](https://albuquerque.geotechnicalengineering.sbs/field-permeability/)
+- [Field Vane Shear](https://albuquerque.geotechnicalengineering.sbs/field-vane-shear/)
+- [Flat Dilatometer](https://albuquerque.geotechnicalengineering.sbs/flat-dilatometer/)
+- [Flexible Pavement Design](https://albuquerque.geotechnicalengineering.sbs/flexible-pavement-design/)
+- [Foundations](https://albuquerque.geotechnicalengineering.sbs/foundations/)
+- [Foundations Fill](https://albuquerque.geotechnicalengineering.sbs/foundations-fill/)
+- [Geocell Design](https://albuquerque.geotechnicalengineering.sbs/geocell-design/)
+- [Geogrid Specification](https://albuquerque.geotechnicalengineering.sbs/geogrid-specification/)
+- [Geomembrane Specification](https://albuquerque.geotechnicalengineering.sbs/geomembrane-specification/)
+- [Geophysics](https://albuquerque.geotechnicalengineering.sbs/geophysics/)
+- [Geotechnical Analysis Soft Soil](https://albuquerque.geotechnicalengineering.sbs/geotechnical-analysis-soft-soil/)
+- [Geotechnical Design Deep Excavations](https://albuquerque.geotechnicalengineering.sbs/geotechnical-design-deep-excavations/)
+- [Geotechnical Drainage Design](https://albuquerque.geotechnicalengineering.sbs/geotechnical-drainage-design/)
+- [Geotechnical Excavation Monitoring](https://albuquerque.geotechnicalengineering.sbs/geotechnical-excavation-monitoring/)
+- [Geotechnical Instrumentation](https://albuquerque.geotechnicalengineering.sbs/geotechnical-instrumentation/)
+- [Geotechnical Road Drainage](https://albuquerque.geotechnicalengineering.sbs/geotechnical-road-drainage/)
+- [Geotechnical Slope Monitoring](https://albuquerque.geotechnicalengineering.sbs/geotechnical-slope-monitoring/)
+- [Grain Size Analysis](https://albuquerque.geotechnicalengineering.sbs/grain-size-analysis/)
+- [Ground Improvement](https://albuquerque.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting Design](https://albuquerque.geotechnicalengineering.sbs/grouting-design/)
+- [Hvsr Microtremor Survey](https://albuquerque.geotechnicalengineering.sbs/hvsr-microtremor-survey/)
+- [In Situ Testing](https://albuquerque.geotechnicalengineering.sbs/in-situ-testing/)
+- [Investigation](https://albuquerque.geotechnicalengineering.sbs/investigation/)
+- [Jet Grouting Design](https://albuquerque.geotechnicalengineering.sbs/jet-grouting-design/)
+- [Laboratory](https://albuquerque.geotechnicalengineering.sbs/laboratory/)
+- [Laboratory Cbr](https://albuquerque.geotechnicalengineering.sbs/laboratory-cbr/)
+- [Laboratory Permeability](https://albuquerque.geotechnicalengineering.sbs/laboratory-permeability/)
+- [Landfill Geotechnics](https://albuquerque.geotechnicalengineering.sbs/landfill-geotechnics/)
+- [Landslide Assessment](https://albuquerque.geotechnicalengineering.sbs/landslide-assessment/)
+- [Lime Cement Stabilization](https://albuquerque.geotechnicalengineering.sbs/lime-cement-stabilization/)
+- [Mechanically Stabilized Earth](https://albuquerque.geotechnicalengineering.sbs/mechanically-stabilized-earth/)
+- [Menard Pressuremeter](https://albuquerque.geotechnicalengineering.sbs/menard-pressuremeter/)
+- [Micropile Design](https://albuquerque.geotechnicalengineering.sbs/micropile-design/)
+- [Oedometer Consolidation](https://albuquerque.geotechnicalengineering.sbs/oedometer-consolidation/)
+
+## Contact
+- Website: https://albuquerque.geotechnicalengineering.sbs/
+
+## About
+This page provides information about geotechnical engineering services available in United States.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
